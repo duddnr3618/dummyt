@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/static/css/main.c57da06a.css",
+    "main.js": "/static/js/main.ee15cba0.js",
+    "ort-wasm-simd-threaded.jsep.wasm": "/ort-wasm-simd-threaded.jsep.wasm",
+    "ort-wasm-simd.jsep.wasm": "/ort-wasm-simd.jsep.wasm",
+    "ort-wasm-simd.wasm": "/ort-wasm-simd.wasm",
+    "ort-wasm-simd-threaded.wasm": "/ort-wasm-simd-threaded.wasm",
+    "ort-wasm.wasm": "/ort-wasm.wasm",
+    "ort-wasm-threaded.wasm": "/ort-wasm-threaded.wasm",
+    "silero_vad.onnx": "/silero_vad.onnx",
+    "static/media/img-1.jpg": "/static/media/img-1.53f4843759ebec256cb9.jpg",
+    "static/media/img-8.jpg": "/static/media/img-8.f821a6f0bb1806e7b19e.jpg",
+    "static/media/img-2.jpg": "/static/media/img-2.086f6fa9a843ac727e88.jpg",
+    "vad.worklet.bundle.min.js": "/vad.worklet.bundle.min.js",
+    "index.html": "/index.html",
+    "static/media/headphones-off.svg": "/static/media/headphones-off.31c02e2bbb293cdccb75af5ecdaa041c.svg",
+    "main.c57da06a.css.map": "/static/css/main.c57da06a.css.map",
+    "main.ee15cba0.js.map": "/static/js/main.ee15cba0.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c57da06a.css",
+    "static/js/main.ee15cba0.js"
+  ]
+}
